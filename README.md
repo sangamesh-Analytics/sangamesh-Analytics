@@ -62,7 +62,7 @@ I'm always interested in discussing data analytics, potential collaborations, or
 
 **📍 Location**: Karnataka, India  
 **✉️ Email**: sangameshdadge2003@gmail.com  
-**💼 LinkedIn**: [Connect with me](#) *(Add your LinkedIn URL)*  
+**💼 LinkedIn**:https://www.linkedin.com/in/sangamesh-dadge-736050251/  
 **📊 Portfolio**: [View my work](#) *(Add portfolio URL if available)*
 
 ---
