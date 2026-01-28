@@ -1,76 +1,97 @@
 # Hi, I'm Sangamesh 👋
 
-### Aspiring Data Analyst | Transforming Data into Actionable Insights
+### Data Analyst | Power BI • Python • SQL | Freelance BI Dashboards
 
-I'm passionate about leveraging data to drive business decisions and uncover meaningful patterns. With expertise in **SQL, Python, and Power BI**, I specialize in creating data-driven solutions that help organizations understand their performance and optimize strategies.
+I’m passionate about turning raw data into **clear insights and business decisions**.  
+I enjoy working on **real-world datasets**, designing **executive dashboards**, and building analytics that help stakeholders understand trends, performance, and opportunities.
 
 ---
 
 ## 🎯 What I Do
 
-I focus on transforming raw data into clear, actionable insights through:
-
-- **Data Analytics**: Extracting meaningful patterns from complex datasets
-- **Business Analytics**: Aligning data insights with business objectives and KPIs
-- **Data Visualization**: Creating intuitive dashboards that tell compelling stories
-- **Exploratory Data Analysis**: Uncovering hidden trends and relationships in data
-- **Forecasting & Trend Analysis**: Predicting future patterns to support strategic planning
+- **Data Analysis & Business Insights** (KPIs, trends, performance tracking)
+- **Dashboarding & Storytelling** (Power BI reports that explain “what + why + what next”)
+- **Exploratory Data Analysis (EDA)** using Python
+- **Time Series & Growth Analysis** (YoY/QoQ, seasonality)
+- **Customer Analytics** (churn patterns, segmentation support)
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Tech Stack
 
-**Languages & Query**  
-Python • SQL
+**Analytics & BI**
+- Power BI (DAX, Power Query, Data Modeling)
+- Microsoft Excel (cleaning, pivoting, KPI tables)
 
-**Analytics & Visualization**  
-Power BI • Microsoft Excel
+**Programming / Query**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (joins, aggregations, window functions)
 
-**Database Management**  
-MySQL
+**Database**
+- MySQL
 
-**Core Competencies**  
-KPI Tracking • YoY Analysis • Customer Churn Modeling • Revenue Analysis • Business Intelligence
+**Concepts**
+- KPI Tracking • Revenue Analysis • YoY Growth • Trend Analysis  
+- Churn Analytics • Segmentation • Business Reporting
+
+---
+
+## 💼 Freelance / Contract Work
+
+I work on(whenever possible) on **freelance/contract analytics dashboards**, focused on business reporting such as:
+- KPI dashboards for sales performance & revenue tracking
+- Monthly trend reporting & customer contribution analysis
+- Clean, export-ready dashboards for decision-making
+
+*(Client names/data are kept confidential. Work can be demonstrated via masked samples and dashboards.)*
 
 ---
 
 ## 📊 Featured Projects
 
-### 🛒 Amazon Revenue Performance Analysis
-Comprehensive quarterly revenue analysis featuring YoY growth trends, category-level performance metrics, and actionable business insights. Built interactive Power BI dashboards to visualize revenue patterns and identify growth opportunities.
+### 🛒 Amazon Revenue Performance Analysis (2020–2024)
+Power BI dashboard analyzing quarterly revenue trends, YoY growth, category contribution, and top product performance.
 
-**Key Focus**: Revenue trends, growth analysis, category performance
+**Highlights**
+- Executive KPI dashboard with time-intelligence (YoY/PY measures)
+- Category-wise and product-wise deep dive for strategy insights
+- Interactive visuals with slicers & drill-down experience
+
+🔗 Repo: https://github.com/sangamesh-Analytics/amazon-revenue-performance-analysis
+
+---
 
 ### 🏦 Bank Customer Churn Analysis
-In-depth analysis of customer churn patterns with segmentation strategies and retention-focused recommendations. Developed dynamic dashboards to track churn rates across different customer segments and identify at-risk populations.
+Customer churn dashboard focused on identifying risk segments and retention insights using behavioral & demographic features.
 
-**Key Focus**: Churn prediction, customer segmentation, retention strategies
+**Highlights**
+- Segment-level churn patterns and churn drivers
+- Retention recommendations based on churn indicators
+- Interactive BI report for business teams
 
-*📁 Detailed documentation and code available in respective repositories*
+🔗 Repo: https://github.com/sangamesh-Analytics/customer-churn-dashboard
 
 ---
 
 ## 📈 Currently Learning
 
-Expanding my skills in advanced analytics techniques, machine learning fundamentals, and cloud-based data platforms to stay at the forefront of data analytics.
+- Advanced Power BI (Performance optimization + advanced DAX)
+- Statistics for analytics (probability, hypothesis testing)
+- Building stronger portfolio projects with real business context
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always interested in discussing data analytics, potential collaborations, or opportunities to contribute to impactful projects.
-
-**📍 Location**: Karnataka, India  
-**✉️ Email**: sangameshdadge2003@gmail.com  
-**💼 LinkedIn**:https://www.linkedin.com/in/sangamesh-dadge-736050251/  
-**📊 Portfolio**: https://sangamesh-analytics.github.io/Sangamesh.github.io/
+📍 Karnataka, India  
+✉️ Email: **sangameshdadge2003@gmail.com**  
+💼 LinkedIn: **https://www.linkedin.com/in/sangamesh-dadge/**  
+🌐 Portfolio: **https://sangamesh-analytics.github.io/Sangamesh.github.io/**  
 
 ---
 
 <div align="center">
 
-*"Data is the new oil, but insights are the refined fuel that powers decisions"*
-
-⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
+⭐ If you find my projects useful, feel free to explore my repositories and connect with me!
 
 </div>
